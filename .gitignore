@@ -1,0 +1,11 @@
+*.db
+*.csv
+*.ipynb
+*.json
+__pycache__/
+.ipynb_checkpoints/
+series/
+partition29_04.py
+model_archs29_04.py
+model_archConv.py
+RNNs.py
